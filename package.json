@@ -1,0 +1,23 @@
+{
+  "name": "cryptomood-widgets-cdn",
+  "version": "1.0.0",
+  "description": "Public assets for cryptomood widgets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptomood/widgets.git"
+  },
+  "keywords": [
+    "cryptomood",
+    "widgets"
+  ],
+  "author": "TuringTechnology s.r.o.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cryptomood/widgets/issues"
+  },
+  "homepage": "https://github.com/cryptomood/widgets#readme"
+}
