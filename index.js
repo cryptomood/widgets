@@ -92,15 +92,19 @@ export default {
     type: "png"
   },
   nothing: {
-    src: require("./nothing-here.svg"),
+    src: require("./Icons/nothing-here.svg"),
     type: "svg"
   },
   cryptomood: {
-    src: require("./cryptomood.svg"),
+    src: require("./Icons/cryptomood.svg"),
     type: "svg"
   },
   wallet: {
-    src: require("./wallet.svg"),
+    src: require("./Icons/wallet.svg"),
     type: "svg"
+  },
+  exchplaceholder: {
+    src: require("./Icons/exchplaceholder.png"),
+    type: "png"
   }
 };
