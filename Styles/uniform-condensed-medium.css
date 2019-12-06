@@ -1,0 +1,9 @@
+@font-face {
+  font-family: customUniformCondensed2;
+  src: url(http://cdn.jsdelivr.net/gh/cryptomood/widgets@be1dd0af/Fonts/Uniform%20Condensed%20Medium.woff) format('woff'),
+       url(http://cdn.jsdelivr.net/gh/cryptomood/widgets@be1dd0af/Fonts/Uniform%20Condensed%20Medium.otf) format('opentype');
+}
+
+* {
+  font-family: customUniformCondensed2, sans-serif;
+}
